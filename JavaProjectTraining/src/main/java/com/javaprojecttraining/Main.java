@@ -1,4 +1,4 @@
-package com.JavaProjectTraining;
+package com.javaprojecttraining;
 
 public class Main {
     public static void main(String[] args) {
