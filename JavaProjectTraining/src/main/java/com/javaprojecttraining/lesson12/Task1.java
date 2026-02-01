@@ -9,7 +9,7 @@ import java.util.regex.Pattern;
 аббревиатуры. Аббревиатурой будем считать слово от 2 до 6 символов, состоящее
 только из прописных букв, без чисел.*/
 
-public class Lesson12Task1 {
+public class Task1 {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);

@@ -15,7 +15,7 @@ email: teachmeskills@gmail.com
 document number: 1423-1512-51
 и т.д.*/
 
-public class Lesson12TaskBonus {
+public class TaskBonus {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
